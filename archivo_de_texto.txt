@@ -1,2 +1,1 @@
-Esto es un archivo de texto.
-Agrego texto.
+Esto es un archivo de texto modificado.
